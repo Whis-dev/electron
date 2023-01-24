@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="mlmtv9adra">
+            <path d="M1440 0v720H0V0h1440z"/>
+        </clipPath>
+        <clipPath id="69slpj91gb">
+            <path d="M1428 0c6.627 0 12 5.373 12 12v696c0 6.627-5.373 12-12 12H12c-6.627 0-12-5.373-12-12V12C0 5.373 5.373 0 12 0h1416z"/>
+        </clipPath>
+        <clipPath id="x9inbkqszc">
+            <path d="m.16.034 12.45 15.817c.047.06.005.149-.07.149H6.406a.089.089 0 0 1-.07-.034L.02 8.032A.092.092 0 0 1 0 7.975V.092C0 .005.107-.033.16.034zM19 .183V8.02a.092.092 0 0 1-.02.058l-2.014 2.5a.09.09 0 0 1-.07.033h-6.134c-.075 0-.117-.09-.07-.149L18.84.125c.053-.067.16-.029.16.058z"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#mlmtv9adra)" transform="translate(-18 -216)">
+        <g clip-path="url(#69slpj91gb)">
+            <g clip-path="url(#x9inbkqszc)" transform="translate(20.5 220)">
+                <path fill="inherit" d="M0 0h19v16H0V0z"/>
+            </g>
+        </g>
+    </g>
+</svg>
