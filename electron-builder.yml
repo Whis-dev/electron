@@ -1,0 +1,19 @@
+appId: 'com.opgg-task'
+productName: 'OPGG TASK'
+
+asar: true
+
+mac:
+  target: ['dmg']
+
+win:
+  target: [{ target: 'nsis', arch: ['x64'] }]
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+
+files: ['dist', 'dist_main']
+
+directories:
+  output: 'dist_electron'
